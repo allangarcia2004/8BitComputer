@@ -49,4 +49,4 @@ set_global_assignment -name BDF_FILE 8BitComputer.bdf
 set_global_assignment -name BDF_FILE 8BC_Utils/8BitTriStateBuffer.bdf
 set_global_assignment -name BDF_FILE 8BC_8BitRegister/LoadDFF.bdf
 set_global_assignment -name BDF_FILE 8BC_8BitRegister/8BitRegister.bdf
-set_global_assignment -name SEARCH_PATH ../8bitcomputer
+set_global_assignment -name SEARCH_PATH "c:/users/13731222/desktop/8bitcomputer/8bitcomputer"
