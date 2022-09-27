@@ -47,4 +47,6 @@ set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
 set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 256
 set_global_assignment -name BDF_FILE 8BitComputer.bdf
 set_global_assignment -name BDF_FILE 8BC_Utils/8BitTriStateBuffer.bdf
-set_global_assignment -name SEARCH_PATH .
+set_global_assignment -name BDF_FILE 8BC_8BitRegister/LoadDFF.bdf
+set_global_assignment -name BDF_FILE 8BC_8BitRegister/8BitRegister.bdf
+set_global_assignment -name SEARCH_PATH ../8bitcomputer
